@@ -1,10 +1,9 @@
 REPOSITORY STRUCTURE
 =====================
 
-├──Projects_Tableau
-└── Tableau_Project_1.zip/
-└── Tableau_Project_2.zip/
-
+Projects_Tableau/
+├── Tableau_Project_1.zip
+└── Tableau_Project_2.zip
 
 =====================================================
 TABLEAU_PROJECT_1/README.md
