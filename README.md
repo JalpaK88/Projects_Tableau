@@ -65,14 +65,14 @@ Tableau_Project_1/
 │   ├── US_Timezone_GlobalSales_Dashboard.png
 │   └── US_Timezone_NASales_Dashboard.png
 └── visualizations/
-    ├── Global_NA_Sales_Bar-Line.png
+    ├── GlobalSales_PS_Year_Line.png
     ├── GlobalSales_Genre_Bar.png
+    ├── Global_NA_Sales_Bar-Line.png
     ├── GlobalSales_Genre_Pie.png
     ├── Global_Sales_Genre_Treemap.png
     ├── GlobalSales_Genre_Box_Whisker.png
     ├── GlobalSales_NASales_Genre_PackedBubble.png
     ├── Global_Sales_EU_Sales_Year_Bin_CF.png
-    ├── GlobalSales_PS_Year_Line.png
     ├── NASales_Genre_Area.png
     └── US_States_TimeZone_Map.png
 ```
