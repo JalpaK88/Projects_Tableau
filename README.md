@@ -1,34 +1,9 @@
 REPOSITORY STRUCTURE
 =====================
 
-├── Tableau_Project_1/
-│   ├── README.md
-│   ├── dashboards/
-│   │   ├── Global_Sales_Dashboard.png
-│   │   ├── US_Timezone_GlobalSales_Dashboard.png
-│   │   └── US_Timezone_NASales_Dashboard.png
-│   └── visualizations/
-│       ├── Global_NA_Sales_Bar-Line.png
-│       ├── GlobalSales_Genre_Bar.png
-│       ├── GlobalSales_Genre_Pie.png
-│       ├── Global_Sales_Genre_Treemap.png
-│       ├── GlobalSales_Genre_Box_Whisker.png
-│       ├── GlobalSales_NASales_Genre_PackedBubble.png
-│       ├── Global_Sales_EU_Sales_Year_Bin_CF.png
-│       ├── GlobalSales_PS_Year_Line.png
-│       ├── NASales_Genre_Area.png
-│       └── US_States_TimeZone_Map.png
-│
-└── Tableau_Project_2/
-    ├── README.md
-    ├── dashboard/
-    │   └── Airbnb_Project.png
-    └── visualizations/
-        ├── Airbnb_AvgPrice_Bedroom_Bar.png
-        ├── Distinct-Count_Bedroom-Listings_Table.png
-        ├── Airbnb_AvgPrice_zipcode_Map.png
-        ├── Airbnb_AvgPrice_zipcode_Bar.png
-        └── Airbnb_Revenue_year_line.png
+├──Projects_Tableau
+└── Tableau_Project_1.zip/
+└── Tableau_Project_2.zip/
 
 
 =====================================================
